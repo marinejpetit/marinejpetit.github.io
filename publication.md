@@ -17,4 +17,4 @@ title: Publications
   PhD work on the **piRNAs pathway as an antiviral response in *Drosophila melanogaste***
   [PDF available here](/assets/pnas.1607952113.pdf)
   
-  ![piwi proteins](/assets/)
+  ![piwi proteins](/assets/piRNAs_paper.jpg){:width="70%"}
