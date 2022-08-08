@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Marine Petit, Ph.D"
+author: "Marine Petit"
+description: "Marie Sklodowska-Curie fellow at MRC-University of Glasgow Centre for Virus Research"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title : Home Change}
+  - {file: "README.md", title : About Me}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:petit.marine75@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/mpetit75"}
+  - {title: Twitter, icon: rss, url: "https://twitter.com/littlebaleine"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
