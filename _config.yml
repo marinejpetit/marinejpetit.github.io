@@ -16,9 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "MJ_Petit_CV.pdf", title : "CV"}
+  - {file: "/MJ_Petit_CV.pdf", title : "CV"}
   - {file: "README.md", title : "About Me"}
   - {title: "Blog", file: "/blog.md"}
+  - { title: "Publications", file: "/publication.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:petit.marine75@gmail.com"}
