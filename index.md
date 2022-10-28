@@ -1,6 +1,9 @@
 ---
 layout: page
-title: " "
+title: "Marine Petit research interest "
 ---
 
-I am a Marie Sklodowska fellow, working on developing system biology approach to understand the tick-virus cellular interactions.
+Intrigued by how viruses impact their host, I have focussed my career on understanding interactions between viruses and their hosts/vectors.
+
+Arboviruses have been my best companion through my journey from Institut Pasteur, Paris (Drosophila melanogaster piRNAs are not antiviral) to the University of California, Davis (Interaction between human transcription machinery and Dengue 2 virus NS5 protein). My Marie-Curie fellowship is the chance to continue exploring arboviruses biology focusing on tick-bunyavirus interactions.
+
