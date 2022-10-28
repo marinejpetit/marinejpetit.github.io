@@ -10,4 +10,4 @@ Arboviruses have been my best companion through my journey from Institut Pasteur
 [Brennan lab](https://www.brennanlab.co.uk/)
 [Kohl lab](https://www.gla.ac.uk/schools/infectionimmunity/staff/alainkohl/)
 
-![](/assets)
+![research vision](/assets/picture1.png)
