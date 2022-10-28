@@ -3,6 +3,6 @@ layout: default
 title: "Science communication"
 ---
 
-</div>
-  <iframe style="position: absolute;" src="https://youtu.be/Bv1kkVsz5CM" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
-</div>
+<div id="small-dialog" class="zoom-anim-dialog mfp-hide">
+                            <iframe src="https://www.youtube.com/embed/U3ACixneVwQ" allowfullscreen></iframe>
+                        </div>
