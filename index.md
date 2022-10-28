@@ -7,3 +7,5 @@ Intrigued by how viruses impact their host, I have focussed my career on underst
 
 Arboviruses have been my best companion through my journey from Institut Pasteur, Paris (Drosophila melanogaster piRNAs are not antiviral) to the University of California, Davis (Interaction between human transcription machinery and Dengue 2 virus NS5 protein). My Marie-Curie fellowship is the chance to continue exploring arboviruses biology focusing on tick-bunyavirus interactions.
 
+https://www.brennanlab.co.uk/
+https://www.gla.ac.uk/schools/infectionimmunity/staff/alainkohl/
