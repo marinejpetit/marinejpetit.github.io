@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: \Science Communication\
 title: "Science communication"
 ---
 
