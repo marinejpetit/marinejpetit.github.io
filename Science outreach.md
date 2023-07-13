@@ -14,9 +14,4 @@ The recent increase of tick density is closely related to the global warming, co
 If you want to know more or report a tick bite, please visit : https://www.tcv.org.uk/scotland/what-makes-viruses-tick/ 
 
 ## Kids oriented Outreach
-
-
-  **How system biology approaches can help understand Arthropod-Borne virus infection in their vectors**
-  [PDF available here](/assets/fcimb-08-00440.pdf)
-  ![review summary](/assets/review_Priya_Marine.jpg){:width="20%"}
-                           
+                          
