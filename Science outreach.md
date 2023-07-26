@@ -20,9 +20,4 @@ This activities intend to give access to science to kids in Scotland country sid
 <div style="width: 60%; height: 60%">
 ![outreach_1](/MicrosoftTeams-image.png)
 </div>
-
-<div style="width: 60%; height: 60%">
-![outreach_2](/MicrosoftTeams-image(1).png)
-</div>
-
                           
