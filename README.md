@@ -9,7 +9,7 @@ layout: page
 
 I am Marine Petit, a french scientist interested by neglected disease studies.
 Throughout my career I had the chance to leave in 3 different countries, France, California,USA, and Scotland.
-Currently based in Glasgow I am studying the interactions between tick and their viruses, with a focus on the emerging Bunyavorus SFTSV (Severe Fever with Thrombocypenia symptoms virus). By developing new tools and system virology approaches adapted to the tick vector I decipher the important pathway for the infection of tick cells.
+Currently based in Glasgow I am studying the interactions between tick and their viruses, with a focus on the emerging Bunyavirus SFTSV (Severe Fever with Thrombocytopaenia syndrome virus). By developing new tools and system virology approaches adapted to the tick vector I decipher the important pathway for the infection of tick cells.
 
 Outside the lab I am passionate about music and literature. I also love to get lost in nature and observe fauna and flora!
 And as many french people I am a food lover ! 
