@@ -12,4 +12,4 @@ My Marie-Curie fellowship is the chance to continue exploring arboviruses biolog
 [Brennan lab](https://www.brennanlab.co.uk/)
 [Kohl lab](https://www.gla.ac.uk/schools/infectionimmunity/staff/alainkohl/)
 
-![research vision](/TICKITS_summary_Horizon2020.pdf){width="40%"}
+![research vision](/assets/TICKITS_summary_Horizon2020.png){width="40%"}
