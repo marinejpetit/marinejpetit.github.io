@@ -21,6 +21,6 @@ Ticks are vectors of several emergent and re-emergent arboviruses across the wor
 
 My research project focusses on the characterization of intra-cellular interactions between Dabie bandavirus (SFTSV) and one of the tick vectors responsible for virus transmission in Asia, Rhipicephalus microplus. Following its emergence in 2009, Dabie bandavirus rapidly spread through Southeast Asian countries with a 30% lethality rate. Its viral detection in R. microplus added to the availability of R. microplus cell lines (BME/CMTV6) affords us a unique opportunity to unravel bunyavirus-tick cell interactions. 
 
-“This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 890970”
+**This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 890970**
 
 
