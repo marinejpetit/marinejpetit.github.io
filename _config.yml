@@ -1,6 +1,7 @@
 title: "Marine Petit, Ph.D"
 author: "Marine Petit"
-description: "Marie Sklodowska-Curie fellow at MRC-University of Glasgow Centre for Virus Research"
+description: "Marie Sklodowska-Curie fellow at MRC-University of Glasgow Centre for Virus Research
+              This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 890970"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Blog", file: "blog.md"}
   - { title: "Publications", file: "publication.md"}
   - {title: "R scripts", file: "R_scripts.md"}
+  - {title: "TICKITS--MSCA summary", file: "TICKITS.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:petit.marine75@gmail.com"}
