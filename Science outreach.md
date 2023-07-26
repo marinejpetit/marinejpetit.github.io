@@ -3,6 +3,7 @@ layout: default
 title: "Science communication"
 ---
 
+{% include embed.html url="https://www.youtube.com/embed/Bv1kkVsz5CM" %}
 
 ## Reporting Tick in the UK (program led by the Brennan lab Group in CVR Glasgow Uni)
 Through outreach conference (online or in person) we explain the importance of the tick, and their pathogens.
