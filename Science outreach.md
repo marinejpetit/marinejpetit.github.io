@@ -16,6 +16,6 @@ I developed in patnership with MerrySTEM (Dr. Denise ) a set of activities to ex
 Using different game plays we went from the DNA structure to the protein synthesis and the effect of a viral infection.
 This activities intend to give access to science to kids in Scotland country side.
 
-![outreach_1](/MicrosoftTeams-image.png)
-![outreach_2](/MicrosoftTeams-image(1).png)
+![outreach_1](/MicrosoftTeams-image.png) {:width="20%"}
+![outreach_2](/MicrosoftTeams-image(1).png) {:width="20%"}
                           
