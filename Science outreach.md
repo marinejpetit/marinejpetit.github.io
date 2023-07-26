@@ -3,7 +3,7 @@ layout: default
 title: "Science communication"
 ---
 
-{% include embed.html url="https://www.youtube.com/embed/Bv1kkVsz5CM" %}
+{% include embed.html url="https://www.youtube.com/embed/Bv1kkVsz5CM" %}{width="50%"}
 
 ## Reporting Tick in the UK (program led by the Brennan lab Group in CVR Glasgow Uni)
 Through outreach conference (online or in person) we explain the importance of the tick, and their pathogens.
@@ -16,6 +16,7 @@ I developed in patnership with MerrySTEM (Dr. Denise ) a set of activities to ex
 Using different game plays we went from the DNA structure to the protein synthesis and the effect of a viral infection.
 This activities intend to give access to science to kids in Scotland country side.
 
-![outreach_1](/MicrosoftTeams-image.png) {:width="20%"}
-![outreach_2](/MicrosoftTeams-image(1).png) {:width="20%"}
+![outreach_1](/MicrosoftTeams-image.png){:width="20%"}
+
+![outreach_2](/MicrosoftTeams-image(1).png){:width="20%"}
                           
