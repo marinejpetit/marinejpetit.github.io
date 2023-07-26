@@ -3,7 +3,9 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
+<div style="width: 60%; height: 60%">
 ![moi a seattle](/assets/received_2407603382827522.jpeg)
+</div>
 
 ## Short Description
 
