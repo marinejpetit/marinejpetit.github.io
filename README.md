@@ -4,7 +4,7 @@ permalink: "/About The Team/"
 layout: page
 ---
 <div style="width: 60%; height: 60%">
-![moi a seattle](/assets/received_2407603382827522.jpeg)
+'![moi a seattle](/assets/received_2407603382827522.jpeg)'
 </div>
 
 ## Petit Lab members - The fantas-ticks!
