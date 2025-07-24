@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Marine Petit research interest "
+title: "Welcome to the Tick verse "
 ---
 
 Intrigued by how viruses impact their host, I have focussed my career on understanding interactions between viruses and their hosts/vectors using System Virology (Transcriptomics, Proteomics and more...).
