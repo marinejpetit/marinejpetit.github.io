@@ -1,7 +1,7 @@
-title: "Marine Petit, Ph.D"
+title: "Petit lab"
 author: "Marine Petit"
-description: "Marie Sklodowska-Curie fellow at MRC-University of Glasgow Centre for Virus Research
-              This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 890970"
+description: "Lecturer in Virology and Group Leader at the University of Surrey"
+      
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,17 +17,17 @@ minimal: true           # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CV.md", title : "CV"}
-  - {file: "README.md", title : "About Me"}
+  - {file: "CV.md", title : "Marine Petit"}
+  - {file: "README.md", title : "The Fantas-ticks Team"}
   - {title: "Blog", file: "blog.md"}
   - { title: "Publications", file: "publication.md"}
   - {title: "R scripts", file: "R_scripts.md"}
-  - {title: "TICKITS--MSCA summary", file: "TICKITS.md"}
+  - {title: "Research Project", file: "TICKITS.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:petit.marine75@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/mpetit75"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/littlebaleine"}
+  
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
