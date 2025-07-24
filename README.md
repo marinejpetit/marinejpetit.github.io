@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
-![moi a seattle](/assets/received_2407603382827522.jpeg)
+![the team](/assets/Group_picture_2025_socialmedia.png)
 
 ## Short Description
 
