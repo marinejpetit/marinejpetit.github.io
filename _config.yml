@@ -1,6 +1,6 @@
-title: "Marine Petit, Ph.D"
+title: "Tick-virology Lab : Petit lab"
 author: "Marine Petit"
-description: "Marie Sklodowska-Curie fellow at MRC-University of Glasgow Centre for Virus Research"
+description: "University of Surrey, School of Biosciences"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,8 +16,8 @@ minimal: true           # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CV.md", title : "CV"}
-  - {file: "README.md", title : "About Me"}
+  - {file: "CV.md", title : "Marine CV"}
+  - {file: "README.md", title : "About the Fantas-Ticks"}
   - {title: "Science Communication", file: "Science outreach.md"}
   - { title: "Publications", file: "publication.md"}
   - {title: "R scripts", file: "R_scripts.md"}
