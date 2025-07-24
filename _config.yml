@@ -16,16 +16,16 @@ minimal: true           # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CV.md", title : "Marine CV"}
   - {file: "README.md", title : "About the Fantas-Ticks"}
-  - {title: "Science Communication", file: "Science outreach.md"}
+  - {file: "CV.md", title : "Marine CV"}
+  - {title:"Science Communication", file: "Science outreach.md"}
+  - {title: "Research Interests", file: "Research_project.md"}
   - { title: "Publications", file: "publication.md"}
   - {title: "R scripts", file: "R_scripts.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:petit.marine75@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/mpetit75"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/littlebaleine"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
