@@ -1,6 +1,6 @@
 ---
 title: "The Petit lab"
-permalink: "/about/"
+permalink: "/About The Team/"
 layout: page
 ---
 <div style="width: 60%; height: 60%">
