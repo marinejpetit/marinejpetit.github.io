@@ -13,7 +13,7 @@ Together we have been focusing on developing a sonification model and a creative
 
 Understanding the dynamics and population shifts of ticks is essential for designing effective control strategies. This Fellowship explores those dynamics through an unconventional lens, combining mathematical modelling with field recordings to compose a musical sentence that represents the ideal lifecycle of a tick. This sentence can then be altered by adjusting environmental parameters, producing the first sonic interpretation of how climate change may affect tick populations. In doing so, the work aims to offer an artistic yet data-informed model that could, in time, help us grasp local and global fluctuations in tick ecology.
 
-[IAS Artist residency]("https://www.ias.surrey.ac.uk/fellows/boris-allenou/")
+[IAS Artist residency]("https://www.ias.surrey.ac.uk/fellows/boris-allenou/ ")
 
 ## Reporting Tick in the UK (program led by the Brennan lab Group in CVR Glasgow Uni)
 Through outreach conference (online or in person) we explain the importance of the tick, and their pathogens.
