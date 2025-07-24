@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "The Petit lab"
 permalink: "/about/"
 layout: page
 ---
@@ -7,14 +7,14 @@ layout: page
 ![moi a seattle](/assets/received_2407603382827522.jpeg)
 </div>
 
-## Short Description
+## Group Leader 
 
-I am Marine Petit, a french scientist interested by neglected disease studies.
-Throughout my career I had the chance to leave in 3 different countries, France, California,USA, and Scotland.
-Currently based in Glasgow I am studying the interactions between tick and their viruses, with a focus on the emerging Bunyavirus SFTSV (Severe Fever with Thrombocytopaenia syndrome virus). By developing new tools and system virology approaches adapted to the tick vector I decipher the important pathway for the infection of tick cells.
+Dr Marine Petit is a french virologist trained in arbovirology, lecturer in Virology at the University of Surrey.
+Marine's had the chance to leave in 4 different countries, France, USA (California), Scotland, and England where she completed her PhD and post-doctoral trainings.
+Currently based in Surrey Marine's team continously develop new cellular tools and system virology approaches adapted to the study of tick and their viruses.
 
-Outside the lab I am passionate about music and literature. I also love to get lost in nature and observe fauna and flora!
-And as many french people I am a food lover ! 
+Outside the lab Marine love to play or listen to music and read fiction.
+And as many french people Marine's love a good meal! 
 
 
 ## TICKITS my MSCA Research -- June 2021-2023
