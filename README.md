@@ -10,9 +10,9 @@ layout: page
 ## Petit Lab members - The fantas-ticks!
 
 The Petit lab goal is to unravel how tick-borne viruses hijack tick cellular pathways, including immune pathways, to established long term, persistent infection which ultimately lead to tick-mammalian transmission! We used various system of study:
-  Rees (PhD student) uses tick-borne Flaviviruses and their vector cells (<i>Ixodes Ricinus</i>) to study long term interactions at the cellular level!
-  Harry (PhD candidate in collaboration with Dr. Smither at DSTL) study the response to orthonairovirus in tick cells (Hyalomma sp.) and human cells.
-  Zimo (Undergraduate student) develop nanostructure to express gene in tick cells- work in collaboration with Dr. Bae (University of Surrey)
+  <Rees Sorby> (PhD student) uses tick-borne Flaviviruses and their vector cells (<i>Ixodes Ricinus</i>) to study long term interactions at the cellular level!
+  <Harry Taylor> (PhD candidate in collaboration with Dr. Smither at DSTL) study the response to orthonairovirus in tick cells (<i>Hyalomma sp.</i>) and human cells.
+  <Zimo He> (Undergraduate student) develop nanostructure to express gene in tick cells- work in collaboration with Dr. Bae (University of Surrey)
 
 ## Group Leader 
 
